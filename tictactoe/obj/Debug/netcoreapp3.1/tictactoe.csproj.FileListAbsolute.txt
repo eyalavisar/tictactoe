@@ -1,0 +1,11 @@
+C:\Users\enfer\source\repos\tictactoe\tictactoe\bin\Debug\netcoreapp3.1\tictactoe.exe
+C:\Users\enfer\source\repos\tictactoe\tictactoe\bin\Debug\netcoreapp3.1\tictactoe.deps.json
+C:\Users\enfer\source\repos\tictactoe\tictactoe\bin\Debug\netcoreapp3.1\tictactoe.runtimeconfig.json
+C:\Users\enfer\source\repos\tictactoe\tictactoe\bin\Debug\netcoreapp3.1\tictactoe.runtimeconfig.dev.json
+C:\Users\enfer\source\repos\tictactoe\tictactoe\bin\Debug\netcoreapp3.1\tictactoe.dll
+C:\Users\enfer\source\repos\tictactoe\tictactoe\bin\Debug\netcoreapp3.1\tictactoe.pdb
+C:\Users\enfer\source\repos\tictactoe\tictactoe\obj\Debug\netcoreapp3.1\tictactoe.csprojAssemblyReference.cache
+C:\Users\enfer\source\repos\tictactoe\tictactoe\obj\Debug\netcoreapp3.1\tictactoe.AssemblyInfoInputs.cache
+C:\Users\enfer\source\repos\tictactoe\tictactoe\obj\Debug\netcoreapp3.1\tictactoe.AssemblyInfo.cs
+C:\Users\enfer\source\repos\tictactoe\tictactoe\obj\Debug\netcoreapp3.1\tictactoe.dll
+C:\Users\enfer\source\repos\tictactoe\tictactoe\obj\Debug\netcoreapp3.1\tictactoe.pdb

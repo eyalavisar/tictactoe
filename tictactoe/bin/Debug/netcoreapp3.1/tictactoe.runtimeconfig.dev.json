@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\enfer\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\enfer\\.nuget\\packages"
+    ]
+  }
+}
